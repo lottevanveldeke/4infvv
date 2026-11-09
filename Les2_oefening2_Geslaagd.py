@@ -1,0 +1,6 @@
+Behaalde_Punten = float(input("Hoeveel punten behaalde je? : "))
+Max_punten = float(input("Wat was de maximaal te behalen score? : "))
+if Behaalde_Punten <(Max_punten/2)
+    Behaalde_Punten = float("Jammer, niet geslaagd.")
+if Behaalde_Punten >(Max_punten/2)
+    Behaalde_Punten = float(“Proficiat, geslaagd”)
